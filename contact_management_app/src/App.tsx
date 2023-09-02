@@ -11,7 +11,7 @@ function App() {
  
   return (
     <div className="App">
-      <h1 className='z-50 w-full fixed shadow-sm shadow-slate-700 top-0 text-2xl text-yellow-100 bg-indigo-300 font-bold p-4'>
+      <h1 className='z-50 w-full fixed shadow-sm shadow-slate-700 top-0 text-2xl text-yellow-100 bg-indigo-300 font-bold p-4' style={{backgroundColor:"black"}}>
         {
           currentRoute == "/" ? ' Contact Management App' : "Charts and Maps"
         }

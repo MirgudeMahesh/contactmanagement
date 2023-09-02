@@ -84,7 +84,7 @@ const Dashboard = () => {
 
 
   return (
-    <div className="  w-full pt-20 px-4 pb-8" >
+    <div className="  w-full pt-20 px-4 pb-8" style={{backgroundColor:"#A9A9A9",color:"black"}} >
       <h1 className="text-4xl font-bold mb-4 text-pink-600">Corona Cases Chart</h1>
       <div className="border-2 border-red-100 w-11/12  m-auto 10 auto 10" >
 

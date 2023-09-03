@@ -36,8 +36,8 @@ The app uses the following APIs to fetch data:
 </br>
 <img src="contact_management_app\src\Screenshots\Capture_addcontact.PNG"/>
 # Charts
-<img src="contact_management_app\src\Screenshots\Capture_addcontact.PNG"/>
-</br>
+
+
 <img src="contact_management_app\src\Screenshots\Capture_chart.PNG"/>
  
 

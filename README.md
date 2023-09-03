@@ -31,10 +31,14 @@ The app uses the following APIs to fetch data:
 - Install the dependencies: npm install
 - Start the app: npm start
 - The app should open in your default browser at http://localhost:3000/.
-- #Screenshots
+# Screenshots
 <img src="contact_management_app\src\Screenshots\Capture.PNG"/>
 </br>
 <img src="contact_management_app\src\Screenshots\Capture_addcontact.PNG"/>
+# Charts
+<img src="contact_management_app\src\Screenshots\Capture_addcontact.PNG"/>
+</br>
+<img src="contact_management_app\src\Screenshots\Capture_chart.PNG"/>
  
 
 
